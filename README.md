@@ -66,7 +66,7 @@ CIRCUIT DIAGRAM
 
 ### PROGRAM :
 ~~~
-//YouTube|Tech at Home
+
 #include<Servo.h>
 Servo s1;
 
